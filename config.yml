@@ -17,7 +17,6 @@ dotfiles_files:
   - .vimrc
 
 homebrew_installed_packages:
-  # - ansible # Installed via Pip.
   - autoconf
   - awscli
   - bash-completion
@@ -82,7 +81,6 @@ homebrew_cask_apps:
   - pacifist
   - packages
   - parallels
-  - parallels-access
   - parallels-toolbox
   - parallels-virtualization-sdk
   - qlcolorcode
@@ -92,7 +90,6 @@ homebrew_cask_apps:
   - qlstephen
   - quicklook-csv
   - quicklook-json
-  - betterzipql
   - sequel-pro
   - spideroakone
   - skitch
