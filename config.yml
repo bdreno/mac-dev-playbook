@@ -1,20 +1,32 @@
 ---
 downloads: ~/.ansible-downloads/
 
-configure_dotfiles: no
+configure_dotfiles: yes
 configure_sudoers: no
 configure_terminal: yes
 configure_osx: yes
 
-dotfiles_repo: https://github.com/geerlingguy/dotfiles.git
-dotfiles_repo_accept_hostkey: yes
-dotfiles_repo_local_destination: ~/Dropbox/Development/GitHub/dotfiles
+
+dotfiles_repo: https://github.com/uisge-beatha/dotfiles.git
+dotfiles_repo_version: master
+dotfiles_repo_accept_hostkey: false
+dotfiles_repo_local_destination: ~/Programming/Projects/dotfiles
+dotfiles_home: "~"
 dotfiles_files:
   - .zshrc
-  - .gitignore
+  - .zshenv
+  - .zshrc
+  - .zlogin
+  - .zlogout
+  - .profile
   - .inputrc
-  - .osx
-  - .vimrc
+
+
+#  - .osx  
+#  - .gitignore
+#  - .vimrc
+
+
 
 homebrew_installed_packages:
   - autoconf
@@ -50,6 +62,7 @@ homebrew_installed_packages:
   - rmtrash
   - openssl
   - pv
+  - tree
   - tmux
   - unrar
   - wget
