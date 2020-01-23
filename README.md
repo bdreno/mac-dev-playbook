@@ -16,11 +16,11 @@ This is a work in progress, and is mostly a means for me to document my current 
 ## Installation
 
   1. Ensure Apple's command line tools are installed (`sudo xcode-select --install` to launch the installer).
-  2. Update the system's python 3 pip (`sudo -H pip3 install --upgrade pip`)
-  3. Install Ansible on the system's Python 3 (`sudo -H pip3 install --upgrade ansible`)
-  4. Clone this repository to your local drive.
-  5. 
-  6. Run `$ ansible-galaxy install -r requirements.yml` inside this directory to install required Ansible roles.
+  2. Update the system's python 3 pip (`sudo -H /usr/bin/pip3 install --upgrade pip`)
+  3. Install Ansible on the system's Python 3 (`sudo -H /usr/bin/pip3 install --upgrade ansible`)
+  4. Clone this repository to your local drive and CD into that drictory
+  5. Run `ansible-galaxy install -c -r requirements.yml` inside this directory to install required Ansible roles.
+  6. 
   7. Run `ansible-playbook main.yml -i inventory -K` inside this directory. Enter your account password when prompted.
 
 > Note: If some Homebrew commands fail, you might need to agree to Xcode's license or fix some other Brew issue. Run `brew doctor` to see if this is the case.
