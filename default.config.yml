@@ -31,6 +31,7 @@ homebrew_installed_packages:
   - iperf
   - libevent
   - sqlite
+  - mas
   - mcrypt
   - nmap
   - node
