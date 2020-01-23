@@ -93,6 +93,7 @@ homebrew_cask_apps:
   - quicklook-csv
   - quicklook-json
   - sequel-pro
+  - Soulver
   - spideroakone
   - skitch
   - suspicious-package
