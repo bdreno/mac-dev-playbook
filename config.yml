@@ -100,7 +100,58 @@ homebrew_cask_apps:
   - xquartz
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: []
+mas_installed_apps: 
+  - { id: 409907375, name: "Remote Desktop" }
+  - { id: 1435957248, name: "Drafts" }
+  - { id: 899972312, name: "WordService" }
+  - { id: 689859502, name: "Push Diagnostics" }
+  - { id: 1438113612, name: "Max Inspec" }
+  - { id: 717779245, name: "Geohopper" }
+  - { id: 494803304, name: "WiFi Explorer" }
+  - { id: 935235287, name: "Encrypto" }
+  - { id: 442168834, name: "SiteSucker" }
+  - { id: 402456742, name: "Ember" }
+  - { id: 655527594, name: "Oyster" }
+  - { id: 914295481, name: "RB App Quarantine" }
+  - { id: 453114608, name: "JSON Helper" }
+  - { id: 991305155, name: "PGPTools" }
+  - { id: 429353921, name: "Audit Explorer" }
+  - { id: 883905375, name: "Path Launcher" }
+  - { id: 1107421413, name: "1Blocker" }
+  - { id: 441258766, name: "Magne" }
+  - { id: 919269455, name: "StuffIt Expander" }
+  - { id: 953006734, name: "com.satishmaha.Shinjuku" }
+  - { id: 877848776, name: "Pathology" }
+  - { id: 1133234759, name: "MUT" }
+  - { id: 946833065, name: "Records" }
+  - { id: 924726344, name: "Deliveries" }
+  - { id: 498672703, name: "Droplr" }
+  - { id: 1040329885, name: "Do" }
+  - { id: 445189367, name: "PopClip" }
+  - { id: 425424353, name: "The Unarchiver" }
+  - { id: 1364038646, name: "Right Click" }
+  - { id: 429449079, name: "Patterns" }
+  - { id: 899970159, name: "CalcService" }
+  - { id: 421879749, name: "Rested" }
+  - { id: 728530824, name: "SubEthaEdi" }
+  - { id: 417375580, name: "BetterSnapTool" }
+  - { id: 1303222628, name: "Paprika Recipe Manager 3" }
+  - { id: 975937182, name: "Fantastical" }
+  - { id: 411673888, name: "EasyFind" }
+  - { id: 425955336, name: "Skitch" }
+  - { id: 407963104, name: "Pixelmator" }
+  - { id: 419332741, name: "XMenu" }
+  - { id: 1077036385, name: "com.inovize.fluid" }
+  - { id: 403388562, name: "Transmi" }
+  - { id: 948415170, name: "Pushbulle" }
+  - { id: 1472432422, name: "Wayback Machine" }
+  - { id: 720669838, name: "iThoughtsX" }
+  - { id: 1472777122, name: "Honey" }
+  - { id: 896146364, name: "Nex" }
+  - { id: 527618971, name: "Pixa" }
+  - { id: 497799835, name: "Xcode" }
+  - { id: 915839505, name: "DeskPM" }
+  - { id: 556464792, name: "App Factory" }
 mas_email: ""
 mas_password: ""
 
