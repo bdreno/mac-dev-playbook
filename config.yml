@@ -147,7 +147,6 @@ mas_installed_apps:
   - { id: 1472777122, name: "Honey" }
   - { id: 896146364, name: "Nex" }
   - { id: 527618971, name: "Pixa" }
-  - { id: 915839505, name: "DeskPM" }
   - { id: 556464792, name: "App Factory" }
 mas_email: ""
 mas_password: ""
