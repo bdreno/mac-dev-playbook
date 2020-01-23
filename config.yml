@@ -73,6 +73,7 @@ homebrew_cask_apps:
   - geektool
   - iterm2
   - licecap
+  - macupdater
   - macvim
   - omnifocus
   - omnigraffle
@@ -111,7 +112,6 @@ mas_installed_apps:
   - { id: 935235287, name: "Encrypto" }
   - { id: 442168834, name: "SiteSucker" }
   - { id: 402456742, name: "Ember" }
-  - { id: 655527594, name: "Oyster" }
   - { id: 914295481, name: "RB App Quarantine" }
   - { id: 453114608, name: "JSON Helper" }
   - { id: 991305155, name: "PGPTools" }
@@ -125,8 +125,6 @@ mas_installed_apps:
   - { id: 1133234759, name: "MUT" }
   - { id: 946833065, name: "Records" }
   - { id: 924726344, name: "Deliveries" }
-  - { id: 498672703, name: "Droplr" }
-  - { id: 1040329885, name: "Do" }
   - { id: 445189367, name: "PopClip" }
   - { id: 425424353, name: "The Unarchiver" }
   - { id: 1364038646, name: "Right Click" }
@@ -149,11 +147,12 @@ mas_installed_apps:
   - { id: 1472777122, name: "Honey" }
   - { id: 896146364, name: "Nex" }
   - { id: 527618971, name: "Pixa" }
-  - { id: 497799835, name: "Xcode" }
   - { id: 915839505, name: "DeskPM" }
   - { id: 556464792, name: "App Factory" }
 mas_email: ""
 mas_password: ""
+
+#  - { id: 497799835, name: "Xcode" }
 
 osx_script: "~/.osx --no-restart"
 
