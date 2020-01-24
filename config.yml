@@ -172,7 +172,7 @@ mas_password: ""
 
 #  - { id: 497799835, name: "Xcode" }
 
-osx_script: "~/.osx --no-restart"
+osx_script: "sudo ~/.osx --no-restart"
 
 # Install packages from other package managers.
 # Note: You are responsible for making sure the required package managers are
