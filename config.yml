@@ -67,6 +67,11 @@ homebrew_installed_packages:
   - unrar
   - wget
   - wrk
+  - zsh-autosuggestions
+  - zsh-git-prompt
+  - zsh-history-substring-search
+  - zsh-navigation-tools
+  - zsh-syntax-highlighting
 
 homebrew_taps:
   - homebrew/core
