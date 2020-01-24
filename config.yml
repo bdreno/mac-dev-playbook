@@ -20,9 +20,10 @@ dotfiles_files:
   - .zlogout
   - .profile
   - .inputrc
+  - .osx  
 
 
-#  - .osx  
+#  
 #  - .gitignore
 #  - .vimrc
 
