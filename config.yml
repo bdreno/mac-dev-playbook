@@ -33,7 +33,6 @@ dotfiles_files:
 homebrew_installed_packages:
   - autoconf
   - awscli
-  - bash-completion
   - cowsay
   - docker-machine-parallels
   - doxygen
