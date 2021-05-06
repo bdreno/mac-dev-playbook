@@ -268,10 +268,6 @@ mas_installed_apps:
   - { id: 556464792, name: "App Factory" }
   - { id: 360593530, name: "Notability" }
   - { id: 1193539993, name: "Brother iPrint&Scan" }
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 mas_email: ""
 mas_password: ""
 
