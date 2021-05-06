@@ -31,44 +31,129 @@ dotfiles_files:
 
 
 homebrew_installed_packages:
+  - ansible-lint
+  - antigen
+  - aterm
   - autoconf
   - awscli
+  - bash-completion
+  - bgrep
+  - bison
+  - cheat
+  - contacts
+  - coreutils
   - cowsay
+  - debianutils
+  - direnv
   - docker-machine-parallels
+  - doctl
   - doxygen
+  - ebook-tools
   - ec2-api-tools
+  - elixir
+  - exiftool
+  - expat
+  - faas-cli
+  - fabric
+  - figlet
+  - findutils
+  - fish
   - gettext
   - gifsicle
   - git
   - git-flow
   - git-lfs
+  - git-secret
   - go
+  - googler
   - gpg
-  - hub
+  - gradle
+  - grc
+  - grep
+  - groff
+  - groovy
+  - gws
+  - helm
   - httpie
+  - hub
+  - internetarchive
+  - intltool
   - iperf
+  - jq
+  - kubernetes-cli
+  - kubernetes-service-catalog-client
+  - latex2rtf
+  - latexml
+  - less
   - libevent
+  - libpcap
+  - libreadline-java
+  - libxml2
+  - lrzsz
   - lua
+  - luarocks
+  - man2html
+  - mas
   - mcrypt
+  - moreutils
+  - mosh
   - nmap
+  - nnn
   - node
   - nvm
-  - osxutils
-  - php
-  - pkg-config
-  - saml2aws
-  - ssh-copy-id
-  - sqlite
-  - readline
+  - openblas
+  - openconnect
   - openssl
+  - osxutils
+  - pandoc
+  - pango
+  - php
+  - pig
+  - pkg-config
+  - pre-commit
   - pv
-  - tree
+  - pyenv-virtualenv
+  - rbenv
+  - readline
+  - rmtrash
+  - rtf2latex2e
+  - ruby
+  - saml2aws
+  - saxon
+  - sfk
+  - shared-mime-info
+  - shellcheck
+  - shtool
+  - sleepwatcher
+  - slrn
+  - slugify
+  - socat
+  - spark
+  - sqlite
+  - ssh-copy-id
+  - sshfs
+  - telnet
+  - texi2html
+  - thefuck
+  - tin
+  - tldr
   - tmux
+  - tomanthony/brews/itermocil
+  - tree
+  - vagrant-completion
+  - versent/taps/saml2aws
   - wget
+  - with-readline
   - wrk
+  - xml-coreutils
+  - youtube-dl
+  - z
+  - zsh
   - zsh-autosuggestions
+  - zsh-completions
   - zsh-git-prompt
   - zsh-history-substring-search
+  - zsh-lovers
   - zsh-navigation-tools
   - zsh-syntax-highlighting
   
