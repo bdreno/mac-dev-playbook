@@ -156,7 +156,6 @@ homebrew_installed_packages:
   - zsh-lovers
   - zsh-navigation-tools
   - zsh-syntax-highlighting
-  
 #   - unrar
 #   - rmtrash
 
@@ -204,6 +203,104 @@ homebrew_cask_apps:
   - suspicious-package
   - vagrant
   - xquartz
+  - alacritty
+  - apache-directory-studio
+  - corretto
+  - dbeaver-community  
+  - r
+  - vagrant
+  - virtualbox
+  - virtualbox-extension-pack
+  - parallels
+  - obsidian
+  - a-better-finder-attributes
+  - autopkgr
+  - balenaetcher
+  - blu-ray-player
+  - boom-3d
+  - brave-browser
+  - caffeine
+  - calibre
+  - camo-studio
+  - crossover
+  - devonagent
+  - discord
+  - downie
+  - easyfind
+  - elgato-control-center
+  - elmedia-player
+  - emailchemy
+  - fake
+  - firefox
+  - gimp
+  - fontbase
+  - gemini
+  - handbrake
+  - hazel
+  - houdahspot
+  - icab
+  - iterm2
+  - keyboard-maestro
+  - keycue
+  - lingon-x
+  - little-snitch
+  - macpar-deluxe
+  - macupdater
+  - macx-dvd-ripper-pro
+  - marble
+  - marked
+  - metaz
+  - microsoft-edge
+  - microsoft-office
+  - microsoft-teams
+  - monodraw
+  - murus
+  - muruslogsvisualizer
+  - murus-menulet
+  - netnewswire
+  - netspot
+  - nvalt
+  - omnidisksweeper
+  - openemu
+  - pacifist
+  - pdfpenpro
+  - permute
+  - platypus
+  - plex
+  - plex-media-player
+  - plexamp
+  - homebrew/cask-fonts/font-ibm-plex
+  - homebrew/cask-fonts/font-ibm-plex-mono
+  - homebrew/cask-fonts/font-ibm-plex-sans
+  - homebrew/cask-fonts/font-ibm-plex-sans-condensed
+  - homebrew/cask-fonts/font-ibm-plex-serif
+  - popchar
+  - popclip
+  - pppc-utility
+  - raspberry-pi-imager
+  - rstudio
+  - scapple
+  - script-debugger
+  - scrivener
+  - signal
+  - steam
+  - elgato-stream-deck
+  - textbuddy
+  - textexpander
+  - tor-browser
+  - ultimaker-cura
+  - vallum
+  - veracrypt
+  - vlc
+  - vmware-horizon-client
+  - wireshark
+  - wwdc
+  - xld
+  - xmind
+  - yed
+  - yubico-yubikey-manager
+  - yubico-yubikey-personalization-gui
+  - yubico-yubikey-piv-manager
   
   
   #  - parallels
