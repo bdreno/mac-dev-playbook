@@ -169,19 +169,22 @@ mas_installed_apps:
   - { id: 425955336, name: "Skitch" }
   - { id: 407963104, name: "Pixelmator" }
   - { id: 419332741, name: "XMenu" }
-  - { id: 1077036385, name: "com.inovize.fluid" }
   - { id: 403388562, name: "Transmi" }
-  - { id: 948415170, name: "Pushbulle" }
   - { id: 1472432422, name: "Wayback Machine" }
   - { id: 720669838, name: "iThoughtsX" }
   - { id: 1472777122, name: "Honey" }
   - { id: 896146364, name: "Nex" }
   - { id: 527618971, name: "Pixa" }
-  - { id: 556464792, name: "App Factory" }
+  - { id: 497799835, name: "Xcode" }
 mas_email: ""
 mas_password: ""
 
 #  - { id: 497799835, name: "Xcode" }
+#  - { id: 1077036385, name: "com.inovize.fluid" }
+#  - { id: 948415170, name: "Pushbulle" }
+#  - { id: 556464792, name: "App Factory" }
+
+
 
 osx_script: "~/.osx --no-restart"
 
