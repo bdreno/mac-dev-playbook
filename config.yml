@@ -242,7 +242,6 @@ homebrew_cask_apps:
   - lingon-x
   - little-snitch
   - macpar-deluxe
-  - macupdater
   - macx-dvd-ripper-pro
   - marble
   - marked
@@ -259,7 +258,6 @@ homebrew_cask_apps:
   - nvalt
   - omnidisksweeper
   - openemu
-  - pacifist
   - pdfpenpro
   - permute
   - platypus
