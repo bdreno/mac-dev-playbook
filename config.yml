@@ -89,20 +89,16 @@ homebrew_cask_apps:
   - devonthink
   - elgato-game-capture-hd
   - docker
-  - dropzone
   - geekbench
   - geektool
   - gitkraken
   - iterm2
   - licecap
-  - macupdater
   - macvim
   - omnifocus
   - omnigraffle
   - omnioutliner
-  - omniplan
   - omnipresence
-  - pacifist
   - packages
   - parallels-toolbox
   - parallels-virtualization-sdk
@@ -119,11 +115,16 @@ homebrew_cask_apps:
   - skitch
   - suspicious-package
   - vagrant
-  - wineskin-winery
   - xquartz
   
   
   #  - parallels
+#   - dropzone
+#   - omniplan
+#   - macupdater
+#   - pacifist
+#   - wineskin-winery
+
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
