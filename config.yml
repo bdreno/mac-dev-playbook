@@ -167,81 +167,62 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
-  - AdoptOpenJDK
-  - alfred
-  - bartender
-  - bbedit
-  - devonthink
-  - elgato-game-capture-hd
-  - docker
-  - geekbench
-  - geektool
-  - gitkraken
-  - iterm2
-  - licecap
-  - macvim
-  - omnifocus
-  - omnigraffle
-  - omnioutliner
-  - omnipresence
-  - packages
-  - parallels-toolbox
-  - parallels-virtualization-sdk
-  - qlcolorcode
-  - qlimagesize
-  - qlmarkdown
-  - qlprettypatch
-  - qlstephen
-  - quicklook-csv
-  - quicklook-json
-  - sequel-pro
-  - Soulver
-  - spideroakone
-  - skitch
-  - suspicious-package
-  - vagrant
-  - xquartz
-  - alacritty
-  - apache-directory-studio
-  - corretto
-  - dbeaver-community  
-  - r
-  - vagrant
-  - virtualbox
-  - virtualbox-extension-pack
-  - parallels
-  - obsidian
   - a-better-finder-attributes
+  - AdoptOpenJDK
+  - airfoil
+  - alacritty
+  - alfred
+  - apache-directory-studio
   - autopkgr
   - balenaetcher
+  - bartender
+  - bbedit
   - blu-ray-player
   - boom-3d
   - brave-browser
+  - brother-p-touch-update-software
   - caffeine
   - calibre
   - camo-studio
+  - corretto
   - crossover
+  - dbeaver-community  
   - devonagent
+  - devonthink
   - discord
+  - docker
   - downie
   - elgato-control-center
+  - elgato-game-capture-hd
+  - elgato-stream-deck
   - elmedia-player
   - emailchemy
   - fake
   - firefox
-  - gimp
   - fontbase
+  - geekbench
+  - geektool
   - gemini
+  - gimp
+  - gitkraken
   - handbrake
   - hazel
+  - homebrew/cask-fonts/font-ibm-plex
+  - homebrew/cask-fonts/font-ibm-plex-mono
+  - homebrew/cask-fonts/font-ibm-plex-sans
+  - homebrew/cask-fonts/font-ibm-plex-sans-condensed
+  - homebrew/cask-fonts/font-ibm-plex-serif
   - houdahspot
   - icab
   - iterm2
   - keyboard-maestro
   - keycue
+  - licecap
   - lingon-x
   - little-snitch
   - macpar-deluxe
+  - mactex
+  - macvim
   - macx-dvd-ripper-pro
   - marble
   - marked
@@ -251,13 +232,22 @@ homebrew_cask_apps:
   - microsoft-teams
   - monodraw
   - murus
-  - muruslogsvisualizer
   - murus-menulet
+  - muruslogsvisualizer
   - netnewswire
   - netspot
   - nvalt
+  - obsidian
   - omnidisksweeper
+  - omnifocus
+  - omnigraffle
+  - omnioutliner
+  - omnipresence
   - openemu
+  - packages
+  - parallels
+  - parallels-toolbox
+  - parallels-virtualization-sdk
   - pdfpenpro
   - permute
   - platypus
@@ -266,38 +256,46 @@ homebrew_cask_apps:
   - plexamp
   - popchar
   - pppc-utility
+  - qlcolorcode
+  - qlimagesize
+  - qlmarkdown
+  - qlprettypatch
+  - qlstephen
+  - quicklook-csv
+  - quicklook-json
+  - r
   - raspberry-pi-imager
   - rstudio
   - scapple
   - script-debugger
   - scrivener
+  - sequel-pro
   - signal
+  - skitch
+  - Soulver
+  - spideroakone
   - steam
-  - elgato-stream-deck
+  - suspicious-package
   - textbuddy
   - textexpander
   - tor-browser
   - ultimaker-cura
+  - vagrant
   - vallum
   - veracrypt
+  - virtualbox
+  - virtualbox-extension-pack
   - vlc
   - vmware-horizon-client
   - wireshark
   - wwdc
   - xld
   - xmind
+  - xquartz
   - yed
   - yubico-yubikey-manager
   - yubico-yubikey-personalization-gui
   - yubico-yubikey-piv-manager
-  - airfoil
-  - brother-p-touch-update-software
-  - mactex
-  - homebrew/cask-fonts/font-ibm-plex
-  - homebrew/cask-fonts/font-ibm-plex-mono
-  - homebrew/cask-fonts/font-ibm-plex-sans
-  - homebrew/cask-fonts/font-ibm-plex-sans-condensed
-  - homebrew/cask-fonts/font-ibm-plex-serif
 
   
   #  - parallels
