@@ -156,9 +156,7 @@ homebrew_installed_packages:
   - zsh-lovers
   - zsh-navigation-tools
   - zsh-syntax-highlighting
-#   - unrar
-#   - rmtrash
-
+  - svn
 
 
 homebrew_taps:
@@ -226,7 +224,6 @@ homebrew_cask_apps:
   - devonagent
   - discord
   - downie
-  - easyfind
   - elgato-control-center
   - elmedia-player
   - emailchemy
@@ -269,13 +266,7 @@ homebrew_cask_apps:
   - plex
   - plex-media-player
   - plexamp
-  - homebrew/cask-fonts/font-ibm-plex
-  - homebrew/cask-fonts/font-ibm-plex-mono
-  - homebrew/cask-fonts/font-ibm-plex-sans
-  - homebrew/cask-fonts/font-ibm-plex-sans-condensed
-  - homebrew/cask-fonts/font-ibm-plex-serif
   - popchar
-  - popclip
   - pppc-utility
   - raspberry-pi-imager
   - rstudio
@@ -304,6 +295,12 @@ homebrew_cask_apps:
   - airfoil
   - brother-p-touch-update-software
   - mactex
+  - homebrew/cask-fonts/font-ibm-plex
+  - homebrew/cask-fonts/font-ibm-plex-mono
+  - homebrew/cask-fonts/font-ibm-plex-sans
+  - homebrew/cask-fonts/font-ibm-plex-sans-condensed
+  - homebrew/cask-fonts/font-ibm-plex-serif
+
   
   #  - parallels
 #   - dropzone
