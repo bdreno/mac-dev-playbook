@@ -60,12 +60,10 @@ homebrew_installed_packages:
   - ssh-copy-id
   - sqlite
   - readline
-  - rmtrash
   - openssl
   - pv
   - tree
   - tmux
-  - unrar
   - wget
   - wrk
   - zsh-autosuggestions
@@ -73,6 +71,11 @@ homebrew_installed_packages:
   - zsh-history-substring-search
   - zsh-navigation-tools
   - zsh-syntax-highlighting
+  
+#   - unrar
+#   - rmtrash
+
+
 
 homebrew_taps:
   - homebrew/core
