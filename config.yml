@@ -301,7 +301,9 @@ homebrew_cask_apps:
   - yubico-yubikey-manager
   - yubico-yubikey-personalization-gui
   - yubico-yubikey-piv-manager
-  
+  - airfoil
+  - brother-p-touch-update-software
+  - mactex
   
   #  - parallels
 #   - dropzone
