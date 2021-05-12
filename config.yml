@@ -40,7 +40,6 @@ homebrew_installed_packages:
   - bgrep
   - bison
   - cheat
-  - contacts
   - coreutils
   - cowsay
   - debianutils
@@ -115,7 +114,6 @@ homebrew_installed_packages:
   - pyenv-virtualenv
   - rbenv
   - readline
-  - rmtrash
   - rtf2latex2e
   - ruby
   - saml2aws
@@ -131,7 +129,7 @@ homebrew_installed_packages:
   - spark
   - sqlite
   - ssh-copy-id
-  - sshfs
+  - svn
   - telnet
   - texi2html
   - thefuck
@@ -156,7 +154,6 @@ homebrew_installed_packages:
   - zsh-lovers
   - zsh-navigation-tools
   - zsh-syntax-highlighting
-  - svn
 
 
 homebrew_taps:
@@ -298,7 +295,6 @@ homebrew_cask_apps:
   - yubico-yubikey-piv-manager
 
   
-  #  - parallels
 #   - dropzone
 #   - omniplan
 #   - macupdater
